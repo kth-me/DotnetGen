@@ -1,6 +1,6 @@
 # DotnetGen <a href="https://github.com/kth-me/DotnetGen/releases"><img src="https://img.shields.io/github/v/release/kth-me/DotnetGen?include_prereleases" alt="Releases"></a> <a href="https://github.com/kth-me/DotnetGen/graphs/contributors"><img src="https://img.shields.io/github/contributors/kth-me/DotnetGen" alt="Contributors"></a> <a href="LICENSE"><img src="https://img.shields.io/github/license/kth-me/DotnetGen" alt="License"></a> <a href="https://discord.gg/RrJrEcH"><img src="https://img.shields.io/discord/446832659377946625" alt="Discord"></a>
 
-> A tool for automating the .NET project and Git repository setup and modification processes
+> A scaffolding tool for automating .NET project and Git repository setup processes
 
 **What is "DotnetGen"?**
 
